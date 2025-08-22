@@ -1,0 +1,52 @@
+[
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder" : "Product_Categories",
+        "p_file_name" : "Product_Categories.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Calendar.csv",
+        "p_sink_folder" : "Calendar",
+        "p_file_name" : "Calendar.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Customers.csv",
+        "p_sink_folder" : "Customers",
+        "p_file_name" : "Customers.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder" : "Product_Subcategories",
+        "p_file_name" : "Product_Subcategories.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Products.csv",
+        "p_sink_folder" : "Products",
+        "p_file_name" : "Products.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Returns.csv",
+        "p_sink_folder" : "Returns",
+        "p_file_name":"Returns.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder" : "Sales_2015",
+        "p_file_name" : "Sales_2015.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder" : "Sales_2016",
+        "p_file_name" : "Sales_2016.cvsv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder" : "Sales_2017",
+        "p_file_name" : "Sales_2017.csv"
+    },
+    {
+        "p_relative_url" : "Prasanth-Kandikatla/Azure-End-To-End-Data-Engineering-Project/refs/heads/master/Datasets/AdventureWorks_Territories.csv",
+        "p_sink_folder" : "Territories",
+        "p_file_name" : "Territories.csv"
+    }
+]
