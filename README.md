@@ -22,7 +22,10 @@ This project simulates how organizations build **cloud-native data pipelines** f
 
 ## 📂 Project Architecture  
 
+
+
  <img width="3754" height="1812" alt="Architecture drawio" src="https://github.com/user-attachments/assets/a3d02188-7a3c-4bb1-8fef-dbb771fbe833" />
+
 
 
 ## ⚡ Features  
@@ -35,7 +38,30 @@ This project simulates how organizations build **cloud-native data pipelines** f
 
 ## 📸 Screenshots  
 
-*(Add screenshots of ADF pipelines, Databricks notebooks, Synapse tables, and Power BI dashboard here)*  
+### 1. Azure Data Factory Pipeline
+ <img width="1319" height="481" alt="image" src="https://github.com/user-attachments/assets/8d7479d8-3a7f-4801-8300-4b1409bc2162" /><br>
+&nbsp;
+&nbsp;
+&nbsp;
+### 2. Databricks Notebook
+&nbsp;
+  <img width="1419" height="631" alt="image" src="https://github.com/user-attachments/assets/2af064aa-7e3e-48e2-93be-b8ee135d6524" />
+&nbsp;
+&nbsp;
+&nbsp;
+### 3. Azure Data Lake Storage
+&nbsp;
+  <img width="1540" height="446" alt="image" src="https://github.com/user-attachments/assets/58238245-121c-4ccd-84ad-c4825b026b3a" />
+&nbsp;
+&nbsp;
+&nbsp;
+### 4. Power BI Dashboard
+&nbsp;
+<img width="950" height="406" alt="image" src="https://github.com/user-attachments/assets/bc39c0f7-5022-4bea-9215-06e7014b070b" />
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 ## 📦 Setup & Deployment  
 
