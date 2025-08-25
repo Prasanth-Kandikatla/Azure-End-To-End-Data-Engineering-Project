@@ -1,6 +1,13 @@
 ---------------
 --Calendar
 ---------------
+-- ============================================
+-- 📄 Create a View: serving.Calendar
+-- This view uses OPENROWSET to query data stored in Azure Data Lake Gen2.
+-- It points to the 'Calendar' folder in the Silver layer and reads Parquet files.
+-- This approach enables schema-on-read without requiring physical tables.
+-- ============================================
+
 CREATE VIEW serving.Calendar
 AS
 SELECT
@@ -9,8 +16,9 @@ FROM
     OPENROWSET(
         BULK 'https://awstoragedatalakekp2499.dfs.core.windows.net/silver/Calendar/',
         FORMAT = 'PARQUET'
-    ) AS Query1
+    ) AS Query1;
 GO
+
 
 ---------------
 --Customers
