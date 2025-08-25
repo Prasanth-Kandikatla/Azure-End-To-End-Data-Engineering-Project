@@ -22,9 +22,8 @@ This project simulates how organizations build **cloud-native data pipelines** f
 
 ## 📂 Project Architecture  
 
+ <img width="3754" height="1812" alt="Architecture drawio" src="https://github.com/user-attachments/assets/a3d02188-7a3c-4bb1-8fef-dbb771fbe833" />
 
-
-*(Insert your pipeline architecture diagram here if you have one)*  
 
 ## ⚡ Features  
 
